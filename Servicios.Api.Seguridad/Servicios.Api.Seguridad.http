@@ -1,0 +1,6 @@
+@Servicios.Api.Seguridad_HostAddress = http://localhost:5090
+
+GET {{Servicios.Api.Seguridad_HostAddress}}/api/Usuario/
+Accept: application/json
+
+###
